@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Python environment config
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit cache
+.streamlit/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy cache
+.mypy_cache/
